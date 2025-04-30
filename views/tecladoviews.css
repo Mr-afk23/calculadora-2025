@@ -10,8 +10,11 @@
 
 .teclas {
     font-size: 3rem;
-    border: 1px solid gray;
+    background-color: black;
+    border: 1px solid white;
     border-radius: 3px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 
     display: flex;
@@ -20,7 +23,7 @@
 }
 
 .teclas:hover{
-    background-color: blanchedalmond;
+    background-color: blue;
 }
 
 .tecla-0 {
